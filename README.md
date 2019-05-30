@@ -3,4 +3,4 @@
 
 ### You may create issues and PR's. All of them are appreciated.
 
-###[Releases](https://github.com/keksbg/divisors/releases)
+### [Releases](https://github.com/keksbg/divisors/releases)
