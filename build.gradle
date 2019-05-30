@@ -1,0 +1,17 @@
+plugins {
+    id'java'
+    id'application'
+    id'com.github.johnrengelman.shadow' version '4.0.4'
+}
+
+mainClassName = 'me.vasko.divisors.Main'
+
+version '1.0.7'
+
+sourceCompatibility = 1.8
+
+repositories {
+    jcenter()
+}
+
+compileJava.options.encoding = 'UTF-8'
