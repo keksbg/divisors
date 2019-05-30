@@ -44,6 +44,7 @@ public class Main {
         }
         for(int i = 2; i <= n/2; ++i)
         {
+          isNPrime = true;
           if(n % i == 0)
           {
             isNPrime = false;
